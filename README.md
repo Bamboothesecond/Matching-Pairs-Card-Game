@@ -1,6 +1,5 @@
 # Matching-Pairs-Card-Game
 # By Bamboothesecond
-/***********************************************************************
  * This Java project is not intended for commercial or public use. It is
  * intended solely for educational purposes and personal use. Any commercial 
  * or public use of this project, in part or in whole, is strictly prohibited. 
