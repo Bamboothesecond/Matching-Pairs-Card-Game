@@ -1,6 +1,6 @@
 * Matching-Pairs-Card-Game
 * By Bamboothesecond
-*This is a fully functional game that I made this last 2020 in Java program, most likely I forgot the steps for the installation. Feel free to test it.
+* This is a fully functional game that I made this last 2020 in Java program, most likely I forgot the steps for the installation. Feel free to test it.
 
 *This is a matching pairs card game, it contains different difficulties and the goal is to find the pair of card to finish the game.
 *A matching pairs card game is a classic game where the player tries to match pairs of cards with the same picture or symbol. The user interface (UI) for a matching pairs *card game in Java would typically include the following components:
