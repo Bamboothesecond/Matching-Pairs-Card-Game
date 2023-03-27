@@ -1,9 +1,5 @@
 * Matching-Pairs-Card-Game
 * By Bamboothesecond
- * This Java project is not intended for commercial or public use. It is
- * intended solely for educational purposes and personal use. Any commercial 
- * or public use of this project, in part or in whole, is strictly prohibited. 
-
 
 *This is a matching pairs card game, it contains different difficulties and the goal is to find the pair of card to finish the game.
 *A matching pairs card game is a classic game where the player tries to match pairs of cards with the same picture or symbol. The user interface (UI) for a matching pairs *card game in Java would typically include the following components:
